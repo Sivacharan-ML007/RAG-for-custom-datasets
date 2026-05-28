@@ -1,0 +1,14 @@
+streamlit>=1.36,<2
+langchain>=0.2.16,<0.4
+langchain-community>=0.2.16,<0.4
+langchain-core>=0.2.38,<0.4
+langchain-huggingface>=0.0.3,<0.2
+requests>=2.32,<3
+sentence-transformers>=3.0,<6
+faiss-cpu>=1.8,<2
+pandas>=2.2,<3
+openpyxl>=3.1,<4
+xlrd>=2.0,<3
+odfpy>=1.4,<2
+pyarrow>=16,<23
+python-dotenv>=1.0,<2
